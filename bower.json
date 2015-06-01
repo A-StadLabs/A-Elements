@@ -1,0 +1,30 @@
+{
+  "name": "a-kaai",
+  "version": "0.0.1",
+  "authors": [
+    "A-StadLabs <mikethuy@gmail.com>"
+  ],
+  "description": "This is the main nav / user bar for Antwerpen.be",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "a-kaai.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/A-StadLabs/a-kaai/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "paper-toolbar": "PolymerElements/paper-toolbar#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
